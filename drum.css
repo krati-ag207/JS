@@ -1,0 +1,24 @@
+*{
+    background-color: teal;
+}
+#title{
+    text-align: center;
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-shadow: 2px 2px red;
+}
+.drum{
+    height: 150px;
+    width: 150px;
+    background-color: gray;
+    border: 10px solid white;
+    font-size: 5rem;
+    color: indianred;
+    border-radius: 10px;
+    margin: 10px;
+    font-weight: 600;
+}
+.set{
+    text-align: center;
+}
